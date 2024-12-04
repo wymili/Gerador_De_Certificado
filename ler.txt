@@ -1,0 +1,9 @@
+Automatizar o envio de dados da planilha e preencher os campos mutáveis no certificado padrão
+
+Nome do curso, nome participante, tipo de participação, data inicio, data final, carga horária, data emissão do certificado e as assinaturas do Gestor Geral do coordenador geral.
+
+Pegar dados(texto) -> sobrepor uma imagem(certificado padrão)
+Pillow - sobrepor texto
+openpyxl - ler dados de uma planilha
+
+Pegar os dados da planilha e tranferir para a imagem do certificado
